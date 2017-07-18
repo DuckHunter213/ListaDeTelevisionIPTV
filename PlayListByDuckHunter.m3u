@@ -1,358 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1, Taquilla 1 
-http://163.172.6.8:8000/live/kelvin/kelvin/1071.ts
-#EXTINF:-1, Taquilla 2
-http://163.172.6.8:8000/live/kelvin/kelvin/1070.ts
-#EXTINF:-1,ES: Taquilla 3
-http://163.172.6.8:8000/live/kelvin/kelvin/1069.ts
-#EXTINF:-1,ES: Taquilla 4
-http://163.172.6.8:8000/live/kelvin/kelvin/1068.ts
-#EXTINF:-1,ES: Taquilla 5
-http://163.172.6.8:8000/live/kelvin/kelvin/1067.ts
-#EXTINF:-1,ES: Taquilla 6
-http://163.172.6.8:8000/live/kelvin/kelvin/1066.ts
-#EXTINF:-1,ES: Taquilla 7
-http://163.172.6.8:8000/live/kelvin/kelvin/1065.ts
-#EXTINF:-1,ES: Taquilla 8
-http://163.172.6.8:8000/live/kelvin/kelvin/1064.ts
-#EXTINF:-1,ES: Taquilla 9
-http://163.172.6.8:8000/live/kelvin/kelvin/1063.ts
-#EXTINF:-1,ES: Taquilla 10
-http://163.172.6.8:8000/live/kelvin/kelvin/1062.ts
-#EXTINF:-1,ES: Canal+ Liga
-http://163.172.6.8:8000/live/kelvin/kelvin/1022.ts
-#EXTINF:-1,ES: Canal+ Deportes HD
-http://163.172.6.8:8000/live/kelvin/kelvin/1012.ts
-#EXTINF:-1,ES: Canal+ Deportes 2 HD
-http://163.172.6.8:8000/live/kelvin/kelvin/2590.ts
-#EXTINF:-1,ES: Canal+ Futpol
-http://163.172.6.8:8000/live/kelvin/kelvin/1020.ts
-#EXTINF:-1,ES: Canal+ Golf
-http://163.172.6.8:8000/live/kelvin/kelvin/1019.ts
-#EXTINF:-1,ES: Canal+ HD
-http://163.172.6.8:8000/live/kelvin/kelvin/1016.ts
-#EXTINF:-1,ES: Canal+ Accion
-http://163.172.6.8:8000/live/kelvin/kelvin/1030.ts
-#EXTINF:-1,ES: Canal+ Dcine
-http://163.172.6.8:8000/live/kelvin/kelvin/1028.ts
-#EXTINF:-1,ES: Canal+ Comedia
-http://163.172.6.8:8000/live/kelvin/kelvin/1031.ts
-#EXTINF:-1,ES: Canal+ Estrenos HD
-http://163.172.6.8:8000/live/kelvin/kelvin/1059.ts
-#EXTINF:-1,ES: Canal+ de las Estrellas
-http://163.172.6.8:8000/live/kelvin/kelvin/1048.ts
-#EXTINF:-1,ES: Canal+ Series
-http://163.172.6.8:8000/live/kelvin/kelvin/1058.ts
-#EXTINF:-1,ES: Canal+ Serie Xtra
-http://163.172.6.8:8000/live/kelvin/kelvin/1004.ts
-#EXTINF:-1,ES: Canal+ Cuatro
-http://163.172.6.8:8000/live/kelvin/kelvin/1026.ts
-#EXTINF:-1,ES: Canal+ Cine
-http://163.172.6.8:8000/live/kelvin/kelvin/1033.ts
-#EXTINF:-1,ES: Canal+ Cocina
-http://163.172.6.8:8000/live/kelvin/kelvin/1024.ts
-#EXTINF:-1,ES: Canal+ AXN HD
-http://163.172.6.8:8000/live/kelvin/kelvin/1054.ts
-#EXTINF:-1,ES: Canal+ Toros
-http://163.172.6.8:8000/live/kelvin/kelvin/1049.ts
-#EXTINF:-1,ES: Canal Los40
-http://163.172.6.8:8000/live/kelvin/kelvin/1002.ts
-#EXTINF:-1,ES: Canal+ Nova
-http://163.172.6.8:8000/live/kelvin/kelvin/1034.ts
-#EXTINF:-1,ES: Canal+ Fox HD
-http://163.172.6.8:8000/live/kelvin/kelvin/1029.ts
-#EXTINF:-1,ES: Canal T HD
-http://163.172.6.8:8000/live/kelvin/kelvin/1047.ts
-#EXTINF:-1,ES: Alfa TV
-http://163.172.6.8:8000/live/kelvin/kelvin/1041.ts
-#EXTINF:-1,ES: Canal+ Divinity
-http://163.172.6.8:8000/live/kelvin/kelvin/1039.ts
-#EXTINF:-1,ES: 24 Horas
-http://163.172.6.8:8000/live/kelvin/kelvin/1046.ts
-#EXTINF:-1,ES: Bein Sport ES HD
-http://163.172.6.8:8000/live/kelvin/kelvin/1003.ts
-#EXTINF:-1,ES: Real Madrid
-http://163.172.6.8:8000/live/kelvin/kelvin/1037.ts
-#EXTINF:-1,ES: Barca TV
-http://163.172.6.8:8000/live/kelvin/kelvin/1021.ts
-#EXTINF:-1,ES: Movis Star Moto Gp
-http://163.172.6.8:8000/live/kelvin/kelvin/1011.ts
-#EXTINF:-1,ES: Movi Star F1
-http://163.172.6.8:8000/live/kelvin/kelvin/1010.ts
-#EXTINF:-1,ES: Comedy Central
-http://163.172.6.8:8000/live/kelvin/kelvin/1042.ts
-#EXTINF:-1,ES: Teledeportes
-http://163.172.6.8:8000/live/kelvin/kelvin/1050.ts
-#EXTINF:-1,ES: Clan TVE
-http://163.172.6.8:8000/live/kelvin/kelvin/1045.ts
-#EXTINF:-1,ES: La 1
-http://163.172.6.8:8000/live/kelvin/kelvin/1014.ts
-#EXTINF:-1,ES: La 2
-http://163.172.6.8:8000/live/kelvin/kelvin/1013.ts
-#EXTINF:-1,ES: La  Sexta HD
-http://163.172.6.8:8000/live/kelvin/kelvin/1017.ts
-#EXTINF:-1,ES: TV Galicia
-http://163.172.6.8:8000/live/kelvin/kelvin/1015.ts
-#EXTINF:-1,ES: SYFY HD
-http://163.172.6.8:8000/live/kelvin/kelvin/1025.ts
-#EXTINF:-1,ES: TV3
-http://163.172.6.8:8000/live/kelvin/kelvin/2591.ts
-#EXTINF:-1,ES: Rtvcscolombia
-http://163.172.6.8:8000/live/kelvin/kelvin/2584.ts
-#EXTINF:-1,ES: AMC HD
-http://163.172.6.8:8000/live/kelvin/kelvin/2589.ts
-#EXTINF:-1,ES: LTC
-http://163.172.6.8:8000/live/kelvin/kelvin/2588.ts
-#EXTINF:-1,ES: GOL Tv
-http://163.172.6.8:8000/live/kelvin/kelvin/2585.ts
-#EXTINF:-1,ES: Boing
-http://163.172.6.8:8000/live/kelvin/kelvin/2586.ts
-#EXTINF:-1,ES: Cosmo HD
-http://163.172.6.8:8000/live/kelvin/kelvin/2587.ts
-#EXTINF:-1,ES: News DW
-http://163.172.6.8:8000/live/kelvin/kelvin/1053.ts
-#EXTINF:-1,ES: TCM HD
-http://163.172.6.8:8000/live/kelvin/kelvin/1056.ts
-#EXTINF:-1,ES: 324 Entertainment
-http://163.172.6.8:8000/live/kelvin/kelvin/1005.ts
-#EXTINF:-1,ES: Fox Life
-http://163.172.6.8:8000/live/kelvin/kelvin/1060.ts
-#EXTINF:-1,ES: Hollywood
-http://163.172.6.8:8000/live/kelvin/kelvin/1036.ts
-#EXTINF:-1,ES: Axn White HD
-http://163.172.6.8:8000/live/kelvin/kelvin/1023.ts
-#EXTINF:-1,ES: History
-http://163.172.6.8:8000/live/kelvin/kelvin/1051.ts
-#EXTINF:-1,ES: Calle 13 Spain
-http://163.172.6.8:8000/live/kelvin/kelvin/1009.ts
-#EXTINF:-1,ES: Anime
-http://163.172.6.8:8000/live/kelvin/kelvin/999.ts
-#EXTINF:-1,ES: A&E
-http://163.172.6.8:8000/live/kelvin/kelvin/1001.ts
-#EXTINF:-1,ES: FDF
-http://163.172.6.8:8000/live/kelvin/kelvin/1007.ts
-#EXTINF:-1,ES: Caza Y Pesca
-http://163.172.6.8:8000/live/kelvin/kelvin/1027.ts
-#EXTINF:-1,ES: Viajar
-http://163.172.6.8:8000/live/kelvin/kelvin/1043.ts
-#EXTINF:-1,ES: Teleticino
-http://163.172.6.8:8000/live/kelvin/kelvin/1008.ts
-#EXTINF:-1,ES: National Geographic
-http://163.172.6.8:8000/live/kelvin/kelvin/1057.ts
-#EXTINF:-1,ES: National Geographic Wild
-http://163.172.6.8:8000/live/kelvin/kelvin/1055.ts
-#EXTINF:-1,ES: Disney Chaneel
-http://163.172.6.8:8000/live/kelvin/kelvin/1040.ts
-#EXTINF:-1,ES: Disney XD
-http://163.172.6.8:8000/live/kelvin/kelvin/1038.ts
-#EXTINF:-1,ES: TNT
-http://163.172.6.8:8000/live/kelvin/kelvin/1032.ts
-#EXTINF:-1,ES: TVN Chile HD
-http://163.172.6.8:8000/live/kelvin/kelvin/1006.ts
-#EXTINF:-1,ES: CHILE VTV
-http://163.172.6.8:8000/live/kelvin/kelvin/1052.ts
-#EXTINF:-1,ES: Chile 18 Carnaval
-http://163.172.6.8:8000/live/kelvin/kelvin/1044.ts
-#EXTINF:-1,----------Latino----------
-http://163.172.6.8:8000/live/kelvin/kelvin/2701.ts
-#EXTINF:-1,ES: Azteca trece
-http://163.172.6.8:8000/live/kelvin/kelvin/1018.ts
-#EXTINF:-1,ES: Azteca Noticias
-http://163.172.6.8:8000/live/kelvin/kelvin/1061.ts
-#EXTINF:-1,ES: Azteca Noticias 16
-http://163.172.6.8:8000/live/kelvin/kelvin/2583.ts
-#EXTINF:-1,ES: Azteca 7 Monterrey
-http://163.172.6.8:8000/live/kelvin/kelvin/1035.ts
-#EXTINF:-1,ES: Antena 3 Internacional
-http://163.172.6.8:8000/live/kelvin/kelvin/1000.ts
-#EXTINF:-1,ES: Golden
-http://163.172.6.8:8000/live/kelvin/kelvin/2567.ts
-#EXTINF:-1,ES: Azteca CLIC
-http://163.172.6.8:8000/live/kelvin/kelvin/2571.ts
-#EXTINF:-1,ES: Canel Wow TV
-http://163.172.6.8:8000/live/kelvin/kelvin/2558.ts
-#EXTINF:-1,ES: Canel 26 HD
-http://163.172.6.8:8000/live/kelvin/kelvin/2561.ts
-#EXTINF:-1,ES: Canal Antiestres
-http://163.172.6.8:8000/live/kelvin/kelvin/2597.ts
-#EXTINF:-1,ES: Canal 4 HD Jujuy
-http://163.172.6.8:8000/live/kelvin/kelvin/2598.ts
-#EXTINF:-1,ES: Canal 10 Chetumal
-http://163.172.6.8:8000/live/kelvin/kelvin/2565.ts
-#EXTINF:-1,ES: Univision 23
-http://163.172.6.8:8000/live/kelvin/kelvin/2607.ts
-#EXTINF:-1,ES: Channel 8
-http://163.172.6.8:8000/live/kelvin/kelvin/2610.ts
-#EXTINF:-1,ES: Channel 32
-http://163.172.6.8:8000/live/kelvin/kelvin/2608.ts
-#EXTINF:-1,ES: Combate
-http://163.172.6.8:8000/live/kelvin/kelvin/2609.ts
-#EXTINF:-1,ES: Azteca Cinma
-http://163.172.6.8:8000/live/kelvin/kelvin/2559.ts
-#EXTINF:-1,ES: Telemaax argentina
-http://163.172.6.8:8000/live/kelvin/kelvin/2570.ts
-#EXTINF:-1,ES: TV Brasil
-http://163.172.6.8:8000/live/kelvin/kelvin/2564.ts
-#EXTINF:-1,ES: CBN Español
-http://163.172.6.8:8000/live/kelvin/kelvin/2569.ts
-#EXTINF:-1,ES: Film Zone
-http://163.172.6.8:8000/live/kelvin/kelvin/2550.ts
-#EXTINF:-1,ES: ALL Sports
-http://163.172.6.8:8000/live/kelvin/kelvin/2593.ts
-#EXTINF:-1,ES: Hispantv
-http://163.172.6.8:8000/live/kelvin/kelvin/2574.ts
-#EXTINF:-1,ES: Williax
-http://163.172.6.8:8000/live/kelvin/kelvin/2572.ts
-#EXTINF:-1,ES: Religion
-http://163.172.6.8:8000/live/kelvin/kelvin/2554.ts
-#EXTINF:-1,ES: Telpin HD
-http://163.172.6.8:8000/live/kelvin/kelvin/2560.ts
-#EXTINF:-1,ES: Noticias ForoTV
-http://163.172.6.8:8000/live/kelvin/kelvin/2606.ts
-#EXTINF:-1,ES: Radiovida
-http://163.172.6.8:8000/live/kelvin/kelvin/2601.ts
-#EXTINF:-1,ES: Noticias16
-http://163.172.6.8:8000/live/kelvin/kelvin/2605.ts
-#EXTINF:-1,ES: Mega
-http://163.172.6.8:8000/live/kelvin/kelvin/2557.ts
-#EXTINF:-1,ES: TVN Vivo
-http://163.172.6.8:8000/live/kelvin/kelvin/2602.ts
-#EXTINF:-1,ES: Cable Noticias
-http://163.172.6.8:8000/live/kelvin/kelvin/2604.ts
-#EXTINF:-1,ES: Cablenoticias
-http://163.172.6.8:8000/live/kelvin/kelvin/2603.ts
-#EXTINF:-1,ES: Orbe 21
-http://163.172.6.8:8000/live/kelvin/kelvin/2578.ts
-#EXTINF:-1,ES: Neox HD
-http://163.172.6.8:8000/live/kelvin/kelvin/2577.ts
-#EXTINF:-1,ES: Rede Super
-http://163.172.6.8:8000/live/kelvin/kelvin/2576.ts
-#EXTINF:-1,ES: microvision
-http://163.172.6.8:8000/live/kelvin/kelvin/2555.ts
-#EXTINF:-1,ES: CGTN
-http://163.172.6.8:8000/live/kelvin/kelvin/2592.ts
-#EXTINF:-1,ES: Atreseries
-http://163.172.6.8:8000/live/kelvin/kelvin/2594.ts
-#EXTINF:-1,ES: Olympic Channel HD
-http://163.172.6.8:8000/live/kelvin/kelvin/2551.ts
-#EXTINF:-1,ES: Konyha TV
-http://163.172.6.8:8000/live/kelvin/kelvin/2575.ts
-#EXTINF:-1,ES: Kids TV
-http://163.172.6.8:8000/live/kelvin/kelvin/2547.ts
-#EXTINF:-1,ES: Gong
-http://163.172.6.8:8000/live/kelvin/kelvin/2563.ts
-#EXTINF:-1,ES: CyL7
-http://163.172.6.8:8000/live/kelvin/kelvin/2552.ts
-#EXTINF:-1,ES: cliparts/jix
-http://163.172.6.8:8000/live/kelvin/kelvin/2573.ts
-#EXTINF:-1,ES: Castilla
-http://163.172.6.8:8000/live/kelvin/kelvin/2553.ts
-#EXTINF:-1,ES: Canal 4
-http://163.172.6.8:8000/live/kelvin/kelvin/2556.ts
-#EXTINF:-1,ES: Brazil 1
-http://163.172.6.8:8000/live/kelvin/kelvin/2562.ts
-#EXTINF:-1,ES: Axial TV
-http://163.172.6.8:8000/live/kelvin/kelvin/2581.ts
-#EXTINF:-1,ES: Efekto tv
-http://163.172.6.8:8000/live/kelvin/kelvin/2580.ts
-#EXTINF:-1,ES: Rede New
-http://163.172.6.8:8000/live/kelvin/kelvin/2548.ts
-#EXTINF:-1,ES: A3S
-http://163.172.6.8:8000/live/kelvin/kelvin/2579.ts
-#EXTINF:-1,ES: 8aldia
-http://163.172.6.8:8000/live/kelvin/kelvin/2546.ts
-#EXTINF:-1,ES: Golden Edge
-http://163.172.6.8:8000/live/kelvin/kelvin/2566.ts
-#EXTINF:-1,ES: 44 Mexico
-http://163.172.6.8:8000/live/kelvin/kelvin/2549.ts
-#EXTINF:-1,ES: 3abn Kidz
-http://163.172.6.8:8000/live/kelvin/kelvin/2568.ts
-#EXTINF:-1,ES: CC TV
-http://163.172.6.8:8000/live/kelvin/kelvin/2611.ts
-#EXTINF:-1,ES: Todo Deportes
-http://163.172.6.8:8000/live/kelvin/kelvin/2618.ts
-#EXTINF:-1,ES: Sun HD
-http://163.172.6.8:8000/live/kelvin/kelvin/2620.ts
-#EXTINF:-1,ES: RtvCe
-http://163.172.6.8:8000/live/kelvin/kelvin/2622.ts
-#EXTINF:-1,ES: PopularTv
-http://163.172.6.8:8000/live/kelvin/kelvin/2612.ts
-#EXTINF:-1,ES: Olympic HD
-http://163.172.6.8:8000/live/kelvin/kelvin/2614.ts
-#EXTINF:-1,ES: Unmision TDN HD
-http://163.172.6.8:8000/live/kelvin/kelvin/2619.ts
-#EXTINF:-1,ES: RTV
-http://163.172.6.8:8000/live/kelvin/kelvin/2613.ts
-#EXTINF:-1,ES: EitbEuskadi
-http://163.172.6.8:8000/live/kelvin/kelvin/2623.ts
-#EXTINF:-1,ES: Deport Tv
-http://163.172.6.8:8000/live/kelvin/kelvin/2617.ts
-#EXTINF:-1,ES: CDO Premium HD
-http://163.172.6.8:8000/live/kelvin/kelvin/2615.ts
-#EXTINF:-1,ES: Banda Ancha TV
-http://163.172.6.8:8000/live/kelvin/kelvin/2616.ts
-#EXTINF:-1,ES: 8Tv
-http://163.172.6.8:8000/live/kelvin/kelvin/2621.ts
-#EXTINF:-1,ES: Uestv
-http://163.172.6.8:8000/live/kelvin/kelvin/2627.ts
-#EXTINF:-1,ES: Willax TV
-http://163.172.6.8:8000/live/kelvin/kelvin/2628.ts
-#EXTINF:-1,ES: REDETV HD
-http://163.172.6.8:8000/live/kelvin/kelvin/2624.ts
-#EXTINF:-1,ES: Noticias News
-http://163.172.6.8:8000/live/kelvin/kelvin/2625.ts
-#EXTINF:-1,ES: Konyha TV HD
-http://163.172.6.8:8000/live/kelvin/kelvin/2629.ts
-#EXTINF:-1,ES: Foro TV Opción 2
-http://163.172.6.8:8000/live/kelvin/kelvin/2626.ts
-#EXTINF:-1,ES: Canal 5
-http://163.172.6.8:8000/live/kelvin/kelvin/2631.ts
-#EXTINF:-1,ES: Cartoon Network
-http://163.172.6.8:8000/live/kelvin/kelvin/2632.ts
-#EXTINF:-1,ES: Cinemax
-http://163.172.6.8:8000/live/kelvin/kelvin/2630.ts
-#EXTINF:-1,ES: De Pelicula
-http://163.172.6.8:8000/live/kelvin/kelvin/2634.ts
-#EXTINF:-1,ES: Discovery Cimvilization
-http://163.172.6.8:8000/live/kelvin/kelvin/2637.ts
-#EXTINF:-1,ES: Discovery TLC
-http://163.172.6.8:8000/live/kelvin/kelvin/2635.ts
-#EXTINF:-1,ES: Unicablel
-http://163.172.6.8:8000/live/kelvin/kelvin/2636.ts
-#EXTINF:-1,ES: Disny HD
-http://163.172.6.8:8000/live/kelvin/kelvin/2638.ts
-#EXTINF:-1,ES: E! Entertainment
-http://163.172.6.8:8000/live/kelvin/kelvin/2640.ts
-#EXTINF:-1,ES: FOX 1
-http://163.172.6.8:8000/live/kelvin/kelvin/2641.ts
-#EXTINF:-1,ES: Ritmoson
-http://163.172.6.8:8000/live/kelvin/kelvin/2642.ts
-#EXTINF:-1,ES: Animal Planet
-http://163.172.6.8:8000/live/kelvin/kelvin/2643.ts
-#EXTINF:-1,ES: Nickelodeon JR
-http://163.172.6.8:8000/live/kelvin/kelvin/2645.ts
-#EXTINF:-1,ES: Fox Sport
-http://163.172.6.8:8000/live/kelvin/kelvin/2646.ts
-#EXTINF:-1,ES: National.Geographic
-http://163.172.6.8:8000/live/kelvin/kelvin/2647.ts
-#EXTINF:-1,ES: Nickelodeon
-http://163.172.6.8:8000/live/kelvin/kelvin/2644.ts
-#EXTINF:-1,ES: Hola TV
-http://163.172.6.8:8000/live/kelvin/kelvin/2648.ts
-#EXTINF:-1,ES: Life Time
-http://163.172.6.8:8000/live/kelvin/kelvin/2649.ts
-#EXTINF:-1,ES: omedy Central
-http://163.172.6.8:8000/live/kelvin/kelvin/2633.ts
-#EXTINF:-1,ES: RCN HD
-http://163.172.6.8:8000/live/kelvin/kelvin/2651.ts
-#EXTINF:-1,ES: National Geographic.Wild
-http://163.172.6.8:8000/live/kelvin/kelvin/2650.ts
-#EXTINF:-1,ES: SYFY
-http://163.172.6.8:8000/live/kelvin/kelvin/2652.ts
-#EXTINF:-1,ES: TV Aparecida
-http://163.172.6.8:8000/live/kelvin/kelvin/2582.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/antena-3.gif" group-title="ENTRETENIMIENTO",ANTENA 3
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
 
@@ -385,123 +31,123 @@ http://streaming203.radionomy.com:80/City-Dance-Radio
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
 #EXTINF:-1 tvg-id="HBO (W)" tvg-name="HBO (W)" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_latinoamerica.png" group-title="PELÍCULAS Y SERIES",HBO LATINO
-http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9oYm8tZW4tdml2by5odG1s/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9oYm8tZW4tdml2by5odG1s/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-logo="http://exabytetv.info/img/icon.png" group-title="z-omitir",== DEPORTES - SPORTS ==
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/VaM80lk.png" group-title="DEPORTES - SPORTS",BT SPORT 1 UK
-http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/btsport1/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/btsport1/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/btsport2.png" group-title="DEPORTES - SPORTS",BT SPORT 2 UK
-http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/btsport2/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/btsport2/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh5.googleusercontent.com/-ir4O0WHeIoM/TWRCXWUz3bI/AAAAAAAAAXs/mNrEtzcPm98/s800/DIRECTVSPORT.png" group-title="DEPORTES - SPORTS",DIRECTV SPORTS 1
-http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9kaXJlY3R2LXNwb3J0cy1lbi12aXZvLmh0bWw=/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9kaXJlY3R2LXNwb3J0cy1lbi12aXZvLmh0bWw=/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/79/big_logo.png" group-title="DEPORTES - SPORTS",DUBAI SPORTS (ARABE)
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/79/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/79/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-2.gif" group-title="DEPORTES - SPORTS",ESPN 2 (ARGENTINA)
-http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9lc3BuLTItZW4tdml2by5odG1s/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9lc3BuLTItZW4tdml2by5odG1s/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/espn-3.gif" group-title="DEPORTES - SPORTS",ESPN 3 (ARGENTINA)
-http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9lc3BuLTMtZW4tdml2by5odG1s/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9lc3BuLTMtZW4tdml2by5odG1s/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="ESPN Deportes" tvg-name="ESPN Deportes" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn_deportes.png" group-title="DEPORTES - SPORTS",ESPN DEPORTES
-http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9Fc3BuLWVuLXZpdm8uaHRtbA==/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9Fc3BuLWVuLXZpdm8uaHRtbA==/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/MB34Qhs.png" group-title="DEPORTES - SPORTS",EUROSPORT (UK)
-http://romeo.exabytetv.info/exabytetv-esgratis/gc/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/1577/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/gc/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/1577/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/1LZtGqC.png" group-title="DEPORTES - SPORTS",EUROSPORT 2 (UK)
-http://romeo.exabytetv.info/exabytetv-esgratis/gc/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/1576/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/gc/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/1576/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="Formula 1" tvg-name="Formula 1" tvg-logo="http://i.imgur.com/bAPF0Pq.png" group-title="DEPORTES - SPORTS",FORMULA 1 (OP2)
-http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9jYW5hbC1mMS1sYXRpbm9hbWVyaWNhLWVuLXZpdm8uaHRtbA==/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9jYW5hbC1mMS1sYXRpbm9hbWVyaWNhLWVuLXZpdm8uaHRtbA==/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports.gif" group-title="DEPORTES - SPORTS",FOX SPORTS 1 (ARGENTINA)
-http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9mb3gtc3BvcnRzLWVuLXZpdm8uaHRtbA==/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9mb3gtc3BvcnRzLWVuLXZpdm8uaHRtbA==/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif" group-title="DEPORTES - SPORTS",FOX SPORTS 2 (ARGENTINA)
-http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9mb3gtc3BvcnRzLTItZW4tdml2by5odG1s/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9mb3gtc3BvcnRzLTItZW4tdml2by5odG1s/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_sports_3_lam.png" group-title="DEPORTES - SPORTS",FOX SPORTS 3 (ARGENTINA)
-http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9mb3gtc3BvcnRzLTMtZW4tdml2by5odG1s/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/aHR0cDovL3R2cG9yLWludGVybmV0LmNvbS9mb3gtc3BvcnRzLTMtZW4tdml2by5odG1s/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/RTLBJ1s.png" group-title="DEPORTES - SPORTS",LA LIGA
-http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/canal%2Bliga/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/canal%2Bliga/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/262/big_logo.png" group-title="DEPORTES - SPORTS",MOTORZ (UK)
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/262/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/262/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/4wSCXuB.png" group-title="DEPORTES - SPORTS",MOVISTAR FUTBOL
-http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/canal%2Bfutbol/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/canal%2Bfutbol/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/295/big_logo.png" group-title="DEPORTES - SPORTS",MY COMBAT CHANNEL (UK)
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/295/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/295/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tKoUxPa.png" group-title="DEPORTES - SPORTS",NBA TV
-http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/nbatv/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/nbatv/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://digitalassets.nbcsports.com/nbcsports/logos/NBC_Sports_logo_2012.png" group-title="DEPORTES - SPORTS",NBC SPORTS NETWORK (USA)(OP2)
-http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/nbcsn/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/nbcsn/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mw1.iptv66.tv/stalker_portal/misc/logos/320/3625.png" group-title="DEPORTES - SPORTS",REAL MADRID TV (ESPAñA)
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysports1.png" group-title="DEPORTES - SPORTS",SKY SPORTS 1 (UK)
-http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/skysports1/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/skysports1/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysports2.png" group-title="DEPORTES - SPORTS",SKY SPORTS 2 (UK)
-http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/skysports2/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/skysports2/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysports3.png" group-title="DEPORTES - SPORTS",SKY SPORTS 3 (UK)
-http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/skysports3/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/skysports3/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysports4.png" group-title="DEPORTES - SPORTS",SKY SPORTS 4 (UK)
-http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/skysports4/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/skysports4/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysports5.png" group-title="DEPORTES - SPORTS",SKY SPORTS 5 (UK)
-http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/skysports5/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/skysports5/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysportsboxoffice.png" group-title="DEPORTES - SPORTS",SKY SPORTS BOX OFFICE
-http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/skysportsboxoffice/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/skysportsboxoffice/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysportscricket.png" group-title="DEPORTES - SPORTS",SKY SPORTS CRICKET
-http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/skysportscricket/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/skysportscricket/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysportsf1.png" group-title="DEPORTES - SPORTS",SKY SPORTS F1 (UK)
-http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/skysportsf1/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/skysportsf1/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/bPLDYdI.png" group-title="DEPORTES - SPORTS",SKY SPORTS MOTO GP (ITALIANO)
-http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/skysportmotogp/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/skysportmotogp/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.liveonlinetv247.info/images/skysportsnews.png" group-title="DEPORTES - SPORTS",SKY SPORTS NEWS
-http://romeo.exabytetv.info/exabytetv-esgratis/gc/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/1608/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/gc/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/1608/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="http://puu.sh/v4u5d/3413081df1.png" group-title="DEPORTES - SPORTS",TDN
-http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/aHR0cDovL3d3dy5taXBzcGxheWVyLmNvbS9Zb3VUVk9wMQ==/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/aHR0cDovL3d3dy5taXBzcGxheWVyLmNvbS9Zb3VUVk9wMQ==/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="TDN" tvg-name="TDN" tvg-logo="http://puu.sh/v4u5d/3413081df1.png" group-title="DEPORTES - SPORTS",TDN (OP2)
-http://romeo.exabytetv.info/exabytetv-esgratis/gc/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/2191/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/gc/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/2191/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/265/big_logo.png" group-title="DEPORTES - SPORTS",THE SKI CHANNEL (UK)
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/265/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/265/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/TUq65XX.png" group-title="DEPORTES - SPORTS",UFC NETWORK
-http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/aHR0cDovL3d3dy5taXBzcGxheWVyLmNvbS9UdVRWU2t5MDE=/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/aHR0cDovL3d3dy5taXBzcGxheWVyLmNvbS9UdVRWU2t5MDE=/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/713/big_logo.png" group-title="DEPORTES - SPORTS",UFC NEXT (UK)
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/713/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/713/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.lyngsat-logo.com/logo/tv/uu/univision_tdn.png" group-title="DEPORTES - SPORTS",UNIVISION TDN
-http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/aHR0cDovL3d3dy5taXBzcGxheWVyLmNvbS9Zb3VUVk9wMg==/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/broadcast/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/aHR0cDovL3d3dy5taXBzcGxheWVyLmNvbS9Zb3VUVk9wMg==/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kimberlydaloisio.com/wp-content/uploads/2011/05/VersusLogo6.jpeg" group-title="DEPORTES - SPORTS",VERSUS CHANNEL (USA)
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/agCPf68.png" group-title="DEPORTES - SPORTS",WWE NETWORK
-http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/wwetv/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/deporteseuropa/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/wwetv/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-logo="http://exabytetv.info/img/icon.png" group-title="z-omitir",== MÚSICA - MUSIC ==
 http://streaming203.radionomy.com:80/City-Dance-Radio
@@ -551,10 +197,10 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 http://186.155.200.118:1935/live/telemusica/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",THE SOUNDTRACK CHANNEL
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/350/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/350/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MÚSICA - MUSIC",URBAN MUSIC NETWORK
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/347/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/347/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/4_Music_logo.svg/985px-4_Music_logo.svg.png" group-title="MÚSICA - MUSIC",VIBEE
 http://46.101.21.42:8081/live/live2/playlist.m3u8
@@ -632,10 +278,10 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 tvg-logo="http://exabytetv.info/img/icon.png" group-title="z-omitir",== MÉXICO (Locales) ==
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/EZJ4ZJ5.png" group-title="MÉXICO (Locales)",CANAL 3 XHBC MEXICALI
-http://romeo.exabytetv.info/exabytetv-esgratis/utube1/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/aHR0cDovL3d3dy50ZWxldmlzYW1leGljYWxpLnR2L3ZpZGVvLWVuLXZpdm8=/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/utube1/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/aHR0cDovL3d3dy50ZWxldmlzYW1leGljYWxpLnR2L3ZpZGVvLWVuLXZpdm8=/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/kk54IUV.png" group-title="MÉXICO (Locales)",CANAL 4 GDL
-http://romeo.exabytetv.info/exabytetv-esgratis/utube1/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/aHR0cDovL3d3dy50ZWxldmlzYWd1YWRhbGFqYXJhLnR2L3ZpZGVvLWVuLXZpdm8=/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/utube1/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/aHR0cDovL3d3dy50ZWxldmlzYWd1YWRhbGFqYXJhLnR2L3ZpZGVvLWVuLXZpdm8=/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.tumblr.com/0459a9d7702cc9333c554763a2753aa9/gzfyf1w/br1mzbgxr/tumblr_static_logo_salina_cruz_oaxaca.png" group-title="MÉXICO (Locales)",CANAL 5 SALINA CRUZ
 http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
@@ -662,13 +308,13 @@ http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/zLtOyuN.png" group-title="MÉXICO (Locales)",DOCE TV HERMOSILLO
-http://romeo.exabytetv.info/exabytetv-esgratis/utube1/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/aHR0cDovL3d3dy50ZWxldmlzYWhlcm1vc2lsbG8udHYvdmlkZW8tZW4tdml2bw==/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/utube1/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/aHR0cDovL3d3dy50ZWxldmlzYWhlcm1vc2lsbG8udHYvdmlkZW8tZW4tdml2bw==/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/QRnGpK0.png" group-title="MÉXICO (Locales)",GALA TV ACAPULCO
-http://romeo.exabytetv.info/exabytetv-esgratis/utube1/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/aHR0cDovL3d3dy5nYWxhdHZhY2FwdWxjby50di92aWRlby1lbi12aXZv/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/utube1/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/aHR0cDovL3d3dy5nYWxhdHZhY2FwdWxjby50di92aWRlby1lbi12aXZv/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/1p9AxlS.png" group-title="MÉXICO (Locales)",GALA TV MORELOS
-http://romeo.exabytetv.info/exabytetv-esgratis/utube1/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/aHR0cDovL3d3dy5nYWxhdHZtb3JlbG9zLnR2L3ZpZGVvLWVuLXZpdm8=/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/utube1/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/aHR0cDovL3d3dy5nYWxhdHZtb3JlbG9zLnR2L3ZpZGVvLWVuLXZpdm8=/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ochotv.com/wp-content/uploads/2015/08/logo_ochotv1.png" group-title="MÉXICO (Locales)",OCHO TV (GDL)
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
@@ -686,19 +332,19 @@ http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.telesuryucatan.com/wp-content/uploads/2016/05/telesuryucatanlogoweb.png" group-title="MÉXICO (Locales)",TELESUR YUCATAN
-http://romeo.exabytetv.info/exabytetv-esgratis/lives/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/1003100/4130805/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/lives/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/1003100/4130805/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/rQ7PlEX.png" group-title="MÉXICO (Locales)",TELEVER (VERACRUZ)
-http://romeo.exabytetv.info/exabytetv-esgratis/utube1/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/aHR0cDovL3d3dy50ZWxldmlzYXZlcmFjcnV6LnR2L3ZpZGVvLWVuLXZpdm8=/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/utube1/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/aHR0cDovL3d3dy50ZWxldmlzYXZlcmFjcnV6LnR2L3ZpZGVvLWVuLXZpdm8=/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/C4Nc2na.png" group-title="MÉXICO (Locales)",TELEVISA DEL GOLFO (CANAL 24)
-http://romeo.exabytetv.info/exabytetv-esgratis/utube1/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/aHR0cDovL3d3dy50ZWxldmlzYWRlbGdvbGZvLnR2L3ZpZGVvLWVuLXZpdm8uaHRtbA==/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/utube1/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/aHR0cDovL3d3dy50ZWxldmlzYWRlbGdvbGZvLnR2L3ZpZGVvLWVuLXZpdm8uaHRtbA==/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_10806_7_36148.png" group-title="MÉXICO (Locales)",TRECEVISION YUCATáN
 http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w425485154_b1431072.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/ws93RW1.png" group-title="MÉXICO (Locales)",TV3 PUEBLA
-http://romeo.exabytetv.info/exabytetv-esgratis/utube1/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/aHR0cDovL3d3dy50ZWxldmlzYXB1ZWJsYS50di92aWRlby1lbi12aXZv/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/utube1/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/aHR0cDovL3d3dy50ZWxldmlzYXB1ZWJsYS50di92aWRlby1lbi12aXZv/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cemev.gob.mx/local1/Imagenes/tvmas1.png" group-title="MÉXICO (Locales)",TVMAS VERACRUZ
 http://50.7.98.234:1935/rtv/videortv/playlist.m3u
@@ -707,78 +353,78 @@ http://50.7.98.234:1935/rtv/videortv/playlist.m3u
 http://tvttabasco-lh.akamaihd.net/i/ch_1@325634/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/tLFWsDb.png" group-title="MÉXICO (Locales)",VALLEVISION MATAMOROS
-http://romeo.exabytetv.info/exabytetv-esgratis/utube1/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/aHR0cDovL3d3dy50ZWxldmlzYW5vcmVzdGUudHYvdmlkZW8tZW4tdml2bw==/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/utube1/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/aHR0cDovL3d3dy50ZWxldmlzYW5vcmVzdGUudHYvdmlkZW8tZW4tdml2bw==/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-logo="http://exabytetv.info/img/icon.png" group-title="z-omitir",== REINO UNIDO (UK) ==
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/4/big_logo.png" group-title="REINO UNIDO (UK)",AL JAZEERA
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/4/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/4/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/14/big_logo.png" group-title="REINO UNIDO (UK)",BBC 1
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/14/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/14/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/25/big_logo.png" group-title="REINO UNIDO (UK)",BBC 2
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/25/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/25/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/113/big_logo.png" group-title="REINO UNIDO (UK)",BBC 3
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/113/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/113/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/103/big_logo.png" group-title="REINO UNIDO (UK)",BBC 4
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/103/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/103/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/27/big_logo.png" group-title="REINO UNIDO (UK)",BBC NEWS
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/27/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/27/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/29/big_logo.png" group-title="REINO UNIDO (UK)",CBBC
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/29/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/29/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/2/big_logo.png" group-title="REINO UNIDO (UK)",CHANNEL 4
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/2/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/2/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/22/big_logo.png" group-title="REINO UNIDO (UK)",CHANNEL 5
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/22/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/22/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/21/big_logo.png" group-title="REINO UNIDO (UK)",FASHION TV
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/21/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/21/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/7/big_logo.png" group-title="REINO UNIDO (UK)",FILMON KIDS
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/7/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/7/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/9/big_logo.png" group-title="REINO UNIDO (UK)",FILMON SPORTS
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/9/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/9/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/20/big_logo.png" group-title="REINO UNIDO (UK)",FOOD NETWORK
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/20/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/20/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/1829/big_logo.png" group-title="REINO UNIDO (UK)",FOOD NETWORK+1
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/1829/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/1829/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/11/big_logo.png" group-title="REINO UNIDO (UK)",ITV
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/11/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/11/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/1817/big_logo.png" group-title="REINO UNIDO (UK)",ITV+1
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/1817/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/1817/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/67/big_logo.png" group-title="REINO UNIDO (UK)",ITV2
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/67/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/67/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/1820/big_logo.png" group-title="REINO UNIDO (UK)",ITV2+1
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/1820/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/1820/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/26/big_logo.png" group-title="REINO UNIDO (UK)",ITV3
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/26/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/26/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/1823/big_logo.png" group-title="REINO UNIDO (UK)",ITV3+1
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/1823/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/1823/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/101/big_logo.png" group-title="REINO UNIDO (UK)",ITV4
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/101/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/101/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/1826/big_logo.png" group-title="REINO UNIDO (UK)",ITV4+1
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/1826/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/1826/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/93/big_logo.png" group-title="REINO UNIDO (UK)",RUSSIA TODAY
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/93/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/93/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-logo="http://exabytetv.info/img/icon.png" group-title="z-omitir",== RELIGIÓN ==
 http://streaming203.radionomy.com:80/City-Dance-Radio
@@ -980,7 +626,7 @@ http://streaming203.radionomy.com:80/City-Dance-Radio
 http://qs1.distream.net:2126/c25_str/canal25/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/6mVafqy.png" group-title="REPÚBLICA DOMINICANA",DIGITAL 15
-http://romeo.exabytetv.info/exabytetv-esgratis/lives/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/736348/5551042/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/lives/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/736348/5551042/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://microvision.com.do/tv/images/Nuevo-logo-microvision3.png" group-title="REPÚBLICA DOMINICANA",MICROVISION DE LA VEGA
 rtmp://ss8.domint.net:2102/mvm_str/microvision
@@ -1026,118 +672,118 @@ http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://exabytetv.info/img/icon.png" group-title="z-omitir",== URUGUAY ==
 http://streaming203.radionomy.com:80/City-Dance-Radio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",ARTIGAS TELEVISIóN
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/6044/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/6044/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",C5ND
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/8071/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/8071/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",CANAL 2 LASCANO
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/6090/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/6090/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",CANAL 2 VISIóN CANARIA
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/9411/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/9411/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",CANAL 4 CHUY
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/6057/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/6057/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",CANAL 4 HD TREINTA Y TRES
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/6061/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/6061/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",CANAL 4 JUAN LACAZE
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/6157/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/6157/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",CANAL 4 PAYSANDú
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/9239/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/9239/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",CANAL 4 SALTO
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/8081/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/8081/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",CANAL 6 DURAZNO
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/6070/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/6070/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",CANAL 8 ARTIGAS
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/9366/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/9366/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",CANAL 8 DE ROCHA
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/6071/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/6071/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",CANAL 8 DURAZNO
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/6077/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/6077/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",CANAL 8 RIVERA
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/9369/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/9369/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",CANAL 8 SALTO
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/6769/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/6769/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",CANAL 8 TELEROCHA
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/6067/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/6067/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",CANAL 11 LAS PIEDRAS
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/6055/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/6055/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",CANAL 11 TREINTA Y TRES
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/6853/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/6853/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",CANAL 12 MELO
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/6074/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/6074/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",CANAL 23 TVD
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/8961/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/8961/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",CANAL CV 10
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/9880/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/9880/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",CANAL U URUGUAY
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/7609/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/7609/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",CHARRúA TV
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/6038/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/6038/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",CáMARA DE REPRESENTANTES
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/6763/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/6763/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",EL CANAL DE LA REGIóN
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/6703/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/6703/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",ESPECTADOR TV
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/10034/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/10034/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",LOS PROFESIONALES
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/7131/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/7131/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",MOROñAS ENTERTAINMENT
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/6056/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/6056/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",POP TV HD
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/14410/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/14410/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",PRESIDENCIA URUGUAY
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/6730/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/6730/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",RIO URUGUAY TELEVISIóN
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/10032/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/10032/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",SOY TACUAREMBó
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/6880/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/6880/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/EPL3Jeb.png" group-title="URUGUAY",TELEDOCE (SOLO URUGUAY)
-http://romeo.exabytetv.info/exabytetv-esgratis/lives/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/13567583/6415713/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/lives/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/13567583/6415713/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",TELESUR
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/6028/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/6028/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",TV CIUDAD
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/6046/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/6046/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",TVL PANDO
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/6764/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/6764/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",TV NACIONAL
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/6042/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/6042/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="URUGUAY",URUGUAY NATURAL
-http://romeo.exabytetv.info/exabytetv-esgratis/vera/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/6068/visita-exabytetv.m3u8
+http://romeo.exabytetv.info/exabytetv-esgratis/vera/ARLEJ-1011001011010111010001110110100-ExabyteTV-holis/6068/visita-exabytetv.m3u8
 
 #EXTINF:-1 tvg-logo="http://exabytetv.info/img/icon.png" group-title="z-omitir",== VENEZUELA ==
 http://streaming203.radionomy.com:80/City-Dance-Radio
@@ -1174,73 +820,3 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/759961884716064768/-Lt-tNx5_200x200.jpg" group-title="VENEZUELA",VTV 8
 rtmp://cast.streamingconnect.com:1935/vtvweb3/vtvweb3
 
-#EXTINF:-1 tvg-logo="http://exabytetv.info/img/icon.png" group-title="z-omitir",== XXX ==
-http://streaming203.radionomy.com:80/City-Dance-Radio
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ijola.com/wp-content/uploads/2016/05/xxx-1.jpg" group-title="XXX",AMATEUR
-http://romeo.exabytetv.info/exabytetv-esgratis/3xvid/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/amateur/visita-exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/393/big_logo.png" group-title="XXX",AMERICAN HORRORS
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/393/visita-exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/2819/big_logo.png" group-title="XXX",BIKINI DOWN UNDER
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/2819/visita-exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/3133/big_logo.png" group-title="XXX",BIKINI GIRLS SHOW AND TELL
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/3133/visita-exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/2984/big_logo.png" group-title="XXX",BIKINI GIRLS SHOWING OFF
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/2984/visita-exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/2000/big_logo.png" group-title="XXX",BIKINI KITCHEN
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/2000/visita-exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/380/big_logo.png" group-title="XXX",BIKINI TEEVEE
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/380/visita-exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/3821/big_logo.png" group-title="XXX",BUDDY PLANT
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/3821/visita-exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/2939/big_logo.png" group-title="XXX",HOTTEST CHEERLEADERS
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/2939/visita-exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/3800/big_logo.png" group-title="XXX",J CLUB TV
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/3800/visita-exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/3728/big_logo.png" group-title="XXX",KAJOU TV
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/3728/visita-exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/866/big_logo.png" group-title="XXX",MIAMITV
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/866/visita-exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/3497/big_logo.png" group-title="XXX",MIAMI TV MEXICO
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/3497/visita-exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/3494/big_logo.png" group-title="XXX",MIAMI TV SPAIN
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/3494/visita-exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ijola.com/wp-content/uploads/2016/05/xxx-1.jpg" group-title="XXX",MILF
-http://romeo.exabytetv.info/exabytetv-esgratis/3xvid/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/milf/visita-exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/2638/big_logo.png" group-title="XXX",MISS TOP OF THE WORLD
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/2638/visita-exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/2975/big_logo.png" group-title="XXX",PARTY GIRLS TV
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/2975/visita-exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ijola.com/wp-content/uploads/2016/05/xxx-1.jpg" group-title="XXX",PLAYBOY COLLECTION
-http://romeo.exabytetv.info/exabytetv-esgratis/3xvid/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/playboy/visita-exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/2684/big_logo.png" group-title="XXX",PLAYER TV
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/2684/visita-exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/4310/big_logo.png" group-title="XXX",PROHBTD
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/4310/visita-exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/256/big_logo.png" group-title="XXX",RSQUARED
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/256/visita-exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/3686/big_logo.png" group-title="XXX",SUPER FLY CINEMA
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/3686/visita-exabytetv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.filmon.com/assets/channels/3632/big_logo.png" group-title="XXX",SWEET LEAF TV
-http://romeo.exabytetv.info/exabytetv-esgratis/filemina/ZMFBI-1011001011001111100101001100001-ExabyteTV-holis/3632/visita-exabytetv.m3u8
